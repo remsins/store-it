@@ -67,7 +67,7 @@ A modern storage management platform built with Next.js 15 and Appwrite, designe
 
 1. Clone the repository
 ```bash
-git clone https://github.com/gaurav23v/store-it
+git clone https://github.com/remsins/store-it
 cd store-it
 ```
 
@@ -134,9 +134,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👥 Contact
 
 For any queries or support, please reach out to:
-- Email: gaurav2301v@gmail.com
-- Twitter: [@StoreItApp](https://twitter.com/gaurav23v)
-- GitHub Issues: [Create an issue](https://github.com/gaurav23v/store-it/issues)
+- Email: srishtiisingh19@gmail.com
+- GitHub Issues: [Create an issue](https://github.com/remsins/store-it/issues)
 
 ## 🙏 Acknowledgments
 
